@@ -87,3 +87,4 @@ Update for day 0
 Update for day 6
 Update for day 12
 Update for day 14
+Update for day 24
